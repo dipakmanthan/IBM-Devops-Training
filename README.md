@@ -8,3 +8,7 @@ We are getting trained by Kul with some tools.
 3 JENKINS
 3 SONARQUBE
 4 UDEPLOY
+
+This is for Demo purpose on DevOps Training
+
+Kindly accept and perform activity. Ready to Test.
